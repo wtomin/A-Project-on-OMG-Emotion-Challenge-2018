@@ -11,7 +11,7 @@ import numpy as np
 import sys
 sys.path.append('..')
 from calculateEvaluationCCC import ccc, mse, f1
-from utils import  display_true_vs_pred, save_mean_feature_value, print_out_csv
+from utils import  display_true_vs_pred, print_out_csv
 from subprocess import call
 import subprocess
 # define hyperparameters
