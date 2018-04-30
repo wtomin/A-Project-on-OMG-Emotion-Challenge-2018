@@ -12,7 +12,7 @@ To run this code, you need to install these libraries first
  + pickle, numpy, sklearn, matplotlib, csv, matlab
 
 ## Instructions
-In **data prepration**, all videos will be downloaded, andsplitted into utterances into /Videos/Train, /Videos/Validation,/Video/Test
+In **data prepration**, all videos will be downloaded, and splitted into utterances into /Videos/Train, /Videos/Validation,/Video/Test
 (the csv files for train, validation, test set can be requested from [OMG emotion challenge](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/))
 1. data_preparation: run `python create_videoset.py`
 
@@ -37,4 +37,4 @@ In **experiment**:<br>
 ![early fusion](https://github.com/wtomin/A-Project-on-OMG-Emotion-Challenge-2018/blob/master/early_fusion.png)
 
 ### Late Fusion
-![late fusion](https://github.com/wtomin/A-Project-on-OMG-Emotion-Challenge-2018/blob/master/late_fusion.png)
+![late fusion](https://github.com/wtomin/A-Project-on-OMG-Emotion-Challenge-2018/blob/master/late_fusion_%2Cmodel.png)
