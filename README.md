@@ -24,7 +24,7 @@ In **feature extraction**, the features for three modal are extracted
    - run `extract_audio_files.py`: audio files are extracted from video format files.<br>
    - run `generate_audio_feature_utterance_level.py`: [openSMILE features](https://github.com/naxingyu/opensmile/blob/master/config/emobase2010.conf) are extracted.<br>
    - run `generate_word_features.py`: text features from [Bing Liu's opinion lexicon](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html) are extracted.<br>
-   - run `count_pn.m` : text features from [MPQA Subjectivity Lexicon](http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/) are extracted.
+   - run `/MPQA/count_pn.m` and `/MPQA/parse_MPQA_feature.py` : text features from [MPQA Subjectivity Lexicon](http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/) are extracted.
    
 In **experiment**:<br>
   - `data.py` provides normalized features and labels. <br>
