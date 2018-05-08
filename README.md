@@ -1,6 +1,6 @@
 # A-Project-on-OMG-Emotion-Challenge-2018
 This is the code repository for the OMG emotion challenge 2018.                    
-
+Arxiv paper: [Multimodal Utterance-level Affect Analysis using Visual, Audio and Text Features](https://arxiv.org/pdf/1805.00625.pdf)
 ## Prerequisite
 To run this code, you need to install these libraries first
  + Keras 2.+
